@@ -4,8 +4,7 @@
 Kelime anlamı geç başlatma anlamına gelen Lateinit kullanılana kadar bellekte yer kaplamaz ve kullanmak için başlatılması gerekir. Oluştururken bir değer atanması gerekmez bu bu değer sonradan atanabilir. Sadece var değişkenlerde kullanılır ve null değer olmaması gerekmektedir.
 - Lateinit kullanımından bahseder misiniz?
 - Lateinit için bir örnek kullanım gösterir misiniz ?
-''' kotlin
-  class MainActivity : AppCompatActivity(), View.OnClickListener {
+'''class MainActivity : AppCompatActivity(), View.OnClickListener {
     private lateinit var button: Button //Değer atamadan Button tanımladık
     private lateinit var dice: ImageView
 
@@ -15,5 +14,4 @@ Kelime anlamı geç başlatma anlamına gelen Lateinit kullanılana kadar bellek
         button = findViewById(R.id.mybutton)//Değer atamasını burda gerçekleştirdik.
         dice=findViewById(R.id.dice)
 
-        button.setOnClickListener(this)
-    } '''
+        button.setOnClickListener(this) } '''
