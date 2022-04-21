@@ -1,3 +1,4 @@
+This is my first layout project. The project consists of 3 pages; Home, Sign In, and Premium. I used these websites when creating my project: www.figma.com and https://www.sketchappsources.com/free-source/4762-design-courses-app-sketch-freebie-resource.html
 
 | Home Page  | Sign In Page | Premium Page |
 | ------------- | ------------- | ------------- |
