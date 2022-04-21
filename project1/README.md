@@ -1,4 +1,7 @@
 
-| First Header  | Second Header | Third Header |
+| Home Page  | Sign In Page | Premium Page |
 | ------------- | ------------- | ------------- |
-| (https://user-images.githubusercontent.com/103462183/164336347-aa9acb62-bbfd-4ae1-b66a-5107a943bf9b.png) | (https://user-images.githubusercontent.com/103462183/164336365-3a342735-66b7-48d4-bd32-ba99628d8c8e.png | (https://user-images.githubusercontent.com/103462183/164336371-a4401b4f-8adc-4792-8cf5-f893ab933770.png) |
+|![home](https://user-images.githubusercontent.com/103462183/164427431-3cdc149e-f631-498d-ac2b-c40dbd809de9.png)
+ | ![signin](https://user-images.githubusercontent.com/103462183/164427597-988cd9cb-bb08-44f5-90d2-e8c83cc4a6d7.png)
+ | ![premium](https://user-images.githubusercontent.com/103462183/164427656-b1927e16-51d4-4c1a-a04d-e06b0a76486a.png)
+ |
