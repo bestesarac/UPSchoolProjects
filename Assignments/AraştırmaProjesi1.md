@@ -10,11 +10,12 @@ Sadece var değişkenlerde kullanılır ve null değer olmaması gerekmektedir.
 
 - Lateinit için bir örnek kullanım gösterir misiniz ?
 
+```kotlin
 
-'''
-    
+class MainActivity : AppCompatActivity() {
     lateinit var button: Button
     lateinit var text: TextView
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -24,7 +25,6 @@ Sadece var değişkenlerde kullanılır ve null değer olmaması gerekmektedir.
         button.setOnClickListener {
             text.text= "Luna"
         }
-
     }
-    
-   '''
+}
+    ´´´
