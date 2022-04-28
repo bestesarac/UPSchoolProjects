@@ -87,5 +87,7 @@ Font family kullanmamızın amacı proje içinde hep aynı fontları kullanırke
 - Property Animation ile ilgili olarak objectAnimator ile animator arasındaki farkı kısaca açıklayınız.
 
 objectAnimator, animator'ün alt sınıfıdır.
+
 animator, bir süre boyunca nesnenin özelliklerini değiştirerek animasyon oluşturur.
+
 objectAnimator, bir süre boyunca nesnenin belirli bir özelliğini değiştirerek animasyonu canlandırır.
